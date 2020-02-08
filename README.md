@@ -30,7 +30,7 @@ https://www.multi-installer.it/windows/desktop.php
 - [cURL](https://curl.haxx.se)
 
 # Download
-- Puoi trovare le varie versioni nella pagine delle <a href="https://github.com/Fabrizio04/Multi-Windows/releases/">release</a>
+- Puoi trovare le varie versioni nella pagine delle <a href="https://github.com/Fabrizio04/Multi-Windows-Desktop/releases">release</a>
 
 # Info versioni
 
