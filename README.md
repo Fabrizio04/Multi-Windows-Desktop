@@ -36,7 +36,7 @@ https://www.multi-installer.it/windows/desktop.php
 
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| Desktop | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" title="Mega Cloud" width="20" height="20"> <img title="Official Microsoft" src="https://www.multi-installer.it/windows/img-win/Windows.png" width="20" height="20"> <img title="Multi Server" src="https://www.multi-installer.it/windows/img-win/Multi.png" width="20" height="20"> | Mega - MS: In base alla connessione<br>Multi SRV: 3,5 MB/s	| Mega: Limitata<br>MS - Multi SRV: Illimitata |
+| Desktop | 1.0 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20"> <img title="Official Microsoft" src="https://www.multi-installer.it/windows/ico/Windows.png" width="20" height="20"> <img title="Multi Server" src="https://www.multi-installer.it/windows/ico/Multi.png" width="20" height="20"> | Mega - MS: In base alla connessione<br>Multi SRV: 3,5 MB/s	| Mega: Limitata<br>MS - Multi SRV: Illimitata |
 
 # Multi-Windows (Pagina principale)
 - [https://github.com/Fabrizio04/Multi-Windows/](https://github.com/Fabrizio04/Multi-Windows/)
