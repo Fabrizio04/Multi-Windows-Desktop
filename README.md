@@ -36,9 +36,9 @@ https://www.multi-installer.it/windows/desktop.php
 
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
-| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Illimitata |
-| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | 3,5 MB/s MAX	| Illimitata |
+| Desktop | 1.1 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Desktop | 1.1 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Illimitata |
+| Desktop | 1.1 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | 3,5 MB/s MAX	| Illimitata |
 
 # Multi-Windows (Pagina principale)
 - [https://github.com/Fabrizio04/Multi-Windows/](https://github.com/Fabrizio04/Multi-Windows/)
