@@ -11,7 +11,7 @@ Multi-Windows Desktop è
 
 ### Info
 
-Versione: 1.0
+Versione: 1.1 <img id="srv" src="https://www.multi-installer.it/img/new.gif" width="35px" height="25px">
 
 Anno: 2020
 
@@ -36,7 +36,9 @@ https://www.multi-installer.it/windows/desktop.php
 
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| Desktop | 1.0 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20"> <img title="Official Microsoft" src="https://www.multi-installer.it/windows/ico/Windows.png" width="20" height="20"> <img title="Multi Server" src="https://www.multi-installer.it/windows/ico/Multi.png" width="20" height="20"> | Mega - MS: In base alla connessione<br>Multi SRV: 3,5 MB/s	| Mega: Limitata<br>MS - Multi SRV: Illimitata |
+| Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Illimitata |
+| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | 3,5 MB/s MAX	| Illimitata |
 
 # Multi-Windows (Pagina principale)
 - [https://github.com/Fabrizio04/Multi-Windows/](https://github.com/Fabrizio04/Multi-Windows/)
