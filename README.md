@@ -37,9 +37,9 @@ https://www.multi-installer.it/windows/desktop.php
 
 | EDIZIONE | VERSIONE | SERVER | BANDA |
 |:-------:|:-------:|:-------:|:-------:|
-| Desktop | 1.1 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | Limitata |
-| Desktop | 1.1 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | Illimitata |
-| Desktop | 1.1 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | Illimitata |
+| Desktop | 1.2 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | Limitata |
+| Desktop | 1.2 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | Illimitata |
+| Desktop | 1.2 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | Illimitata |
 
 # Multi-Windows (Pagina principale)
 - [https://github.com/Fabrizio04/Multi-Windows/](https://github.com/Fabrizio04/Multi-Windows/)
