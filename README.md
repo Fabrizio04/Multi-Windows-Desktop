@@ -11,7 +11,7 @@ Multi-Windows Desktop è
 
 ### Info
 
-Versione: 1.2 <img src="https://multi-installer.it/img/new.gif" width="30" height="20">
+Versione: 1.2
 
 Anno: 2020
 
