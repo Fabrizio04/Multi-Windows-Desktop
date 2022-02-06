@@ -21,7 +21,7 @@ Released By: Fabrizio Amorelli
 https://www.multi-installer.it/windows/desktop.php
 
 ### Installazione
-- Consultare il [manuale](manuali/Multi-Windows-Desktop.pdf) all'interno della cartella dedicata per le istruzioni d'installazione e d'uso.
+- Consultare il [manuale](program/Multi-Windows-Desktop.pdf) all'interno della cartella dedicata per le istruzioni d'installazione e d'uso.
 
 ### Componenti
 - [PHP Desktop](https://github.com/cztomczak/phpdesktop/)
