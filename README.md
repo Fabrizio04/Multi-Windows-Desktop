@@ -12,7 +12,7 @@ Multi-Windows Desktop è
 
 ### Info
 
-Versione: 1.3
+Versione: 1.4 <img src="https://www.multi-installer.it/img/new.gif" width="30" height="20">
 
 Anno: 2022
 
